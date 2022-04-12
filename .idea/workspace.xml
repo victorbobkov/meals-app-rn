@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09e44ec8-8527-431c-bf58-3cf0f96be8fe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/screens/CategoriesScreen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screens/CategoryMealsScreen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screens/FavoritesScreen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screens/FiltersScreen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screens/MealDetailScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +42,7 @@
       <updated>1649727020050</updated>
       <workItem from="1649727021185" duration="49000" />
       <workItem from="1649727170463" duration="1684000" />
+      <workItem from="1649790593908" duration="807000" />
     </task>
     <servers />
   </component>
