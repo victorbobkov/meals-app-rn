@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09e44ec8-8527-431c-bf58-3cf0f96be8fe" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screens/CategoriesScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screens/CategoryMealsScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screens/FavoritesScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screens/FiltersScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screens/MealDetailScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +18,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="27g1fe09TH9nQqerfTxF2zB1iKP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,6 +30,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -33,7 +42,7 @@
       <option name="presentableId" value="Default" />
       <updated>1649727020050</updated>
       <workItem from="1649727021185" duration="49000" />
-      <workItem from="1649727170463" duration="159000" />
+      <workItem from="1649727170463" duration="1684000" />
     </task>
     <servers />
   </component>
